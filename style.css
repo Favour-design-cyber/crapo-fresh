@@ -192,9 +192,7 @@ body {
   transform: translateX(50%);
 }
 
-
 /* ///////////////////////FAVOUR SECTION STARTS////////////////////////////////////////////// */
-
 
 .trade-paragrapgh-1 {
   width: 62rem;
@@ -470,4 +468,74 @@ body {
 
 .ltc-type-div {
   background-color: #fff;
+}
+
+/* ////////////////////////////////////SECTION FAVOUR MARKET BEGINS//////////////////////////////// */
+
+.footer {
+  height: 40rem;
+}
+
+.footer-cta {
+  background-color: #3671e9;
+  height: 20rem;
+  width: 100rem;
+  margin-left: 22.5rem;
+  border-radius: 1.6rem;
+}
+
+.head-footer-cta {
+  font-weight: 700;
+  font-size: 3.2rem;
+  line-height: 150%;
+  color: #fff;
+  margin-left: 8rem;
+  margin-top: 3rem;
+  position: absolute;
+}
+
+.footer-cta-paragraph {
+  color: #fff;
+  position: absolute;
+  margin-top: 10rem;
+  font-size: 1.5rem;
+  width: 32rem;
+  margin-left: 8rem;
+}
+
+.footer-form {
+  width: 30rem;
+  height: 0rem;
+  margin-left: 49rem;
+  position: absolute;
+  margin-top: 10rem;
+
+  border: 1px solid #e0e0e0;
+}
+
+.footer-form-paragraph {
+  font-size: 1.3rem;
+  margin-top: -3rem;
+  color: #fff;
+}
+
+.footer-btn {
+  position: absolute;
+  margin-left: 85rem;
+  margin-top: 7rem;
+  background-color: #fff;
+  border-radius: 50px;
+  text-decoration: none;
+  border: none;
+  font-size: 1.5rem;
+  height: 5rem;
+  width: 12rem;
+  color: #000;
+  font-weight: 600;
+}
+
+.footer-btc-logo {
+  margin-left: 85rem;
+  margin-top: 6rem;
+  position: absolute;
 }
