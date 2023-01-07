@@ -195,7 +195,7 @@ body {
 .trade-paragrapgh-1 {
   width: 62rem;
   height: 5rem;
-  margin-left: 47rem;
+  margin-left: 40rem;
   margin-top: 10rem;
 
   font-weight: 400;
@@ -218,7 +218,7 @@ body {
   display: flex;
   text-align: center;
   justify-content: space-between;
-  margin-left: 30rem;
+  margin-left: 22.5rem;
   width: 100rem;
   font-size: 2rem;
   background-color: #fbfcfe;
@@ -277,7 +277,7 @@ body {
   position: absolute;
   width: 100rem;
   height: 21rem;
-  margin-left: 30rem;
+  margin-left: 22.5rem;
   /* margin-top: 21rem; */
 
   background: #ffffff;
@@ -325,20 +325,20 @@ body {
 }
 
 .heading-trade {
-  font-size: 4rem;
+  font-size: 3rem;
   text-align: center;
   color: #222;
   font-weight: 900;
   line-height: 100%;
-  width: 80rem;
-  margin-left: 42rem;
+  width: 70rem;
+  margin-left: 38rem;
   margin-top: 10rem;
 }
 
 .coins-div {
-  height: 70rem;
+  height: 60rem;
   width: 120rem;
-  margin-left: 22rem;
+  margin-left: 12rem;
   /* margin-top: 10rem; */
   display: flex;
   justify-content: space-between;
